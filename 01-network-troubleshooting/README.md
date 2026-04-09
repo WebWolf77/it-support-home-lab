@@ -35,16 +35,20 @@ DNS resolution failed
 
 ## 📸 Screenshots
 ### Network disabled 
-<img width="1070" height="1021" alt="Screenshot_1" src="https://github.com/user-attachments/assets/34c5337a-8fc2-40ee-96d8-174e7681f749" />
+<img width="962" height="1019" alt="Screenshot_7" src="https://github.com/user-attachments/assets/d80c68cc-03c9-4b15-8893-1e816d30b9ec" />
 
-### Checked IP configuration Tested connectivity Checked DNS 
-<img width="1088" height="1013" alt="Screenshot_2" src="https://github.com/user-attachments/assets/0fe99541-f9f0-4328-a2c9-ce2bcbf53a04" />
+
+### Checked IP configuration, Tested connectivity & Checked DNS 
+<img width="1012" height="1018" alt="Screenshot_zweite" src="https://github.com/user-attachments/assets/6a37473a-a71a-4e6c-b064-9dce0d2c6107" />
+
 
 ### The network adapter was disabled. Enabling it restores the connection and resolves the issue. 
-<img width="1091" height="1020" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6161f620-56ad-4e41-b429-0f4358d96c14" />
+<img width="1014" height="1020" alt="Screenshot_9" src="https://github.com/user-attachments/assets/c41408f2-de8c-4559-ad3d-71c391542b3b" />
 
-### Last check IP configuration & checked DNS 
-<img width="1090" height="1013" alt="Screenshot_4" src="https://github.com/user-attachments/assets/99a4f4a7-6a8f-414a-9eec-6344cfc0bdde" />
+
+### Final verification of IP configuration and DNS
+<img width="1012" height="1021" alt="Screenshot_dritte" src="https://github.com/user-attachments/assets/9d8b1d03-589f-4cfe-93f0-81251f3893c2" />
+
 
 
 
@@ -52,3 +56,14 @@ DNS resolution failed
 - How to diagnose network issues
 - Importance of IP and DNS
 - Basic troubleshooting workflow
+  
+---
+## 🧠 Troubleshooting Approach
+1. Identify the problem
+2. Check IP configuration
+3. Test connectivity
+4. Analyze DNS
+5. Apply fix
+6. Verify solution
+
+
