@@ -83,6 +83,14 @@ All users can access and modify files in the shared folder.
 * Read and write permissions verified
 
 ---
+
+## 💡 What I Learned
+
+* How to configure shared folders in Windows
+* How to manage permissions (Read / Write / Full Control)
+* How to test access using `\\localhost`
+* Basic file sharing concepts
+
 ## 🧠 Troubleshooting Approach
 
 1. Identified the problem
@@ -91,11 +99,5 @@ All users can access and modify files in the shared folder.
 4. Tested access
 5. Verified functionality
    
-## 💡 What I Learned
-
-* How to configure shared folders in Windows
-* How to manage permissions (Read / Write / Full Control)
-* How to test access using `\\localhost`
-* Basic file sharing concepts
 
 ---
