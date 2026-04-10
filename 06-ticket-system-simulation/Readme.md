@@ -30,7 +30,8 @@ Closed
 
 ## 📸 Screenshots
 ### ❌ Error
-<img width="1020" height="1016" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ac729c84-e0bc-4988-a94d-2d664e2d0177" />
+<img width="1020" height="1016" alt="Screenshot_1" src="https://github.com/user-attachments/assets/4e507fa9-33f1-47f1-a04e-f9cc45210aaa" />
+
 
 
 ### ✅ Fixed
