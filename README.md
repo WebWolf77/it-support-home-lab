@@ -89,5 +89,4 @@ Screenshots are included in each project folder to demonstrate the troubleshooti
 
 ---
 
-## 📌 Author
-This project was created as part of my journey to become an IT Support / System Administrator.
+
