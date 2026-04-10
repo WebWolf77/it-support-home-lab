@@ -24,7 +24,8 @@ A user needs access to a shared folder to view and edit files over the network.
 <img width="994" height="1013" alt="Screenshot_5zweite" src="https://github.com/user-attachments/assets/bbfc65ab-f983-459a-9147-6b08bfc6f6b3" />
 
 
-👉 Accessed the **Advanced Sharing** settings to configure the folder.
+👉 Opened the folder by double-clicking it, then right-clicked and selected **“Properties / Eigenschaften”**.
+Navigated to the **“Sharing / Freigabe”** tab and clicked on **“Advanced Sharing / Erweiterte Freigabe”** to configure the folder sharing settings.
 
 ---
 
@@ -36,9 +37,9 @@ A user needs access to a shared folder to view and edit files over the network.
 
 👉 The **Everyone (Jeder)** group was added and granted:
 
-* Read
-* Change
-* Full Control
+* Read / Lesen
+* Change / Ändern
+* Full Control / Vollzugriff
 
 💡 Interpretation:
 All users can access and modify files in the shared folder.
@@ -72,7 +73,7 @@ All users can access and modify files in the shared folder.
 <img width="995" height="1015" alt="Screenshot_4" src="https://github.com/user-attachments/assets/67f594fc-ac3f-495d-bd3d-f23f9ec88ca4" />
 
 
-👉 A test file was successfully created inside the shared folder.
+👉 A test file was created inside the shared folder by right-clicking in the folder, selecting **“New / Neu”** → **“Text Document / Textdokument”**, and naming it **“test”**.
 
 ---
 
