@@ -1,9 +1,9 @@
 # 🖥️ IT Support Home Lab
 
 ## 🎯 Overview
-This repository showcases a collection of hands-on IT support labs built in a virtual environment using Oracle VirtualBox.  
+This repository showcases a collection of hands-on IT support labs built in a virtual environment using Oracle VirtualBox.
 
-The goal of this project is to simulate real-world IT support scenarios such as troubleshooting, system administration, and user support.
+The purpose of this project is to simulate real-world IT support scenarios and demonstrate practical troubleshooting, system administration, and helpdesk workflows.
 
 ---
 
@@ -11,7 +11,7 @@ The goal of this project is to simulate real-world IT support scenarios such as 
 - Windows 10 / Windows Server 2022  
 - Oracle VirtualBox  
 - Command Line (CMD / PowerShell)  
-- Active Directory  
+- Active Directory (AD DS)  
 - Networking Tools (`ipconfig`, `ping`, `nslookup`)  
 
 ---
@@ -19,41 +19,42 @@ The goal of this project is to simulate real-world IT support scenarios such as 
 ## 📂 Projects Included
 
 ### 🔌 01 - Network Troubleshooting
-- Diagnosed no internet connection  
-- Used `ipconfig`, `ping`, `nslookup`  
-- Identified disabled network adapter  
+- Diagnosed "no internet connection" issue  
+- Performed connectivity tests using `ping`  
+- Identified and fixed disabled network adapter  
 
 ---
 
 ### 📁 02 - Shared Folders
-- Configured shared folders between machines  
-- Managed permissions and access  
+- Configured shared folders between virtual machines  
+- Managed permissions and user access  
 
 ---
 
 ### 🔑 03 - Password Reset
-- Reset user passwords  
-- Practiced account recovery scenarios  
+- Reset user account passwords using Command Prompt  
+- Resolved permission issues (Access Denied → Admin CMD)  
+- Practiced real-world account recovery scenarios  
 
 ---
 
 ### 🖥️ 04 - Remote Support
 - Simulated remote desktop troubleshooting  
-- Assisted users remotely  
+- Assisted users in a remote environment  
 
 ---
 
 ### 🏢 05 - Active Directory Lab
 - Installed and configured Domain Controller  
-- Created users and groups  
-- Applied Group Policies  
+- Created and managed users & groups  
+- Applied Group Policy Objects (GPOs)  
 
 ---
 
 ### 🎫 06 - Ticket System Simulation
-- Simulated real IT support tickets  
-- Documented problems and solutions  
-- Followed structured troubleshooting workflow  
+- Simulated real-world IT support tickets  
+- Documented issue → diagnosis → resolution → result  
+- Included screenshots for each scenario  
 
 ---
 
@@ -61,7 +62,7 @@ The goal of this project is to simulate real-world IT support scenarios such as 
 - IT Troubleshooting  
 - Networking Fundamentals  
 - Active Directory Administration  
-- User Support & Helpdesk Workflow  
+- Helpdesk Workflow & Ticket Handling  
 - Problem Solving & Root Cause Analysis  
 
 ---
@@ -70,13 +71,23 @@ The goal of this project is to simulate real-world IT support scenarios such as 
 All labs were built and tested in a virtual environment using Oracle VirtualBox.
 
 - Multiple virtual machines  
-- Simulated enterprise-like environment  
+- Simulated enterprise-like setup  
 - Realistic troubleshooting scenarios  
 
 ---
 
-## 💡 What I Learned
-- How to diagnose and resolve IT issues step-by-step  
-- Importance of structured troubleshooting  
-- Hands-on experience with real-world IT tools  
-- How to document technical problems clearly  # it-support-home-lab
+## 💡 Key Learnings
+- Step-by-step troubleshooting methodology  
+- Importance of structured documentation  
+- Hands-on experience with real IT tools  
+- Understanding of common IT support issues  
+
+---
+
+## 📸 Screenshots
+Screenshots are included in each project folder to demonstrate the troubleshooting process and final results.
+
+---
+
+## 📌 Author
+This project was created as part of my journey to become an IT Support / System Administrator.
