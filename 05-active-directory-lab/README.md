@@ -23,8 +23,9 @@ It includes domain creation, user management, and Group Policy configuration.
 * Created a Virtual Machine in VirtualBox
 * Installed Windows Server 2022
 
-
+📸
 Server Install 
+<img width="1032" height="1019" alt="Screenshot_25" src="https://github.com/user-attachments/assets/808468a2-2395-4980-be7a-7af442ed17d6" />
 
 
 
@@ -53,7 +54,7 @@ AD Install
 * Selected **Add a new forest**
 * Domain name: `company.local`
 
-
+📸
 Promote DC
 <img width="1049" height="1020" alt="Screenshot_4" src="https://github.com/user-attachments/assets/9f695a82-ba0c-4e48-bb1c-848e68d0303b" />
 <img width="1048" height="1018" alt="Screenshot_6" src="https://github.com/user-attachments/assets/febed1b7-7c3f-4128-b79e-2dfc5f8a0a8e" />
@@ -68,7 +69,7 @@ Promote DC
 * Used default DNS settings
 * Completed setup
 
-
+📸
 DSRM Password
 <img width="1046" height="1022" alt="Screenshot_7" src="https://github.com/user-attachments/assets/25533be4-685b-4c09-991e-13bb2167b2f4" />
 <img width="1045" height="1019" alt="Screenshot_8" src="https://github.com/user-attachments/assets/c7e9bbe1-cfa3-4f45-be21-f48c4c634103" />
@@ -81,7 +82,8 @@ DSRM Password
 * Verified settings
 * Passed prerequisite check
 * Installed and restarted server
-
+  
+📸
 Restart
 <img width="1046" height="1020" alt="Screenshot_11" src="https://github.com/user-attachments/assets/2ad59e9f-e324-4daf-8ed1-95b1f080e208" />
 
@@ -96,7 +98,7 @@ Restart
 
 * Logged in as:
   `COMPANY\Administrator`
-
+📸
 Admin Login
 
 <img width="1048" height="1019" alt="Screenshot_14" src="https://github.com/user-attachments/assets/991b13de-d32d-401b-a39e-5f735d5616cb" />
@@ -127,7 +129,8 @@ Create OU IT
 * Name: Test User
 * Username: `test.user`
 * Set password
-
+  
+📸
 Create User
 <img width="1051" height="1022" alt="Screenshot_18" src="https://github.com/user-attachments/assets/d842cf0e-d4a8-447e-8c94-a44823a7b2a4" />
 
@@ -144,7 +147,8 @@ Create User
 * Edited Default Domain Policy
 * Enabled:
   **Allow log on locally → Domain Users + Administrators**
-
+  
+📸
 Group Policy
 
 <img width="1030" height="1022" alt="Screenshot_23" src="https://github.com/user-attachments/assets/e124c213-8255-4452-91d1-962b197a3e79" />
@@ -161,7 +165,8 @@ gpupdate /force
 ```
 
 📸
-![GPUpdate](./screenshots/step10.png)
+GPUpdate
+<img width="1033" height="1019" alt="Screenshot_26" src="https://github.com/user-attachments/assets/d76bfdfb-ad26-4885-a00d-ecd8e39863da" />
 
 ---
 
@@ -171,7 +176,7 @@ gpupdate /force
   `COMPANY\test.user`
 * Login successful
 
-
+📸
 User Login
 
 <img width="1051" height="1018" alt="Screenshot_21" src="https://github.com/user-attachments/assets/2ce2d8cb-ec0d-4100-8a42-884b00da9c63" />
