@@ -22,8 +22,8 @@ Step 1
 
 ### 2. Navigated to Local Users
 
-* Opened: Local Users and Groups
-* Clicked: Users
+* Opened: Lokale Benutzer und Gruppen
+* Clicked: Benutzer
 
 Step 2
 
@@ -34,8 +34,8 @@ Step 2
 
 ### 3. Selected User Account
 
-* Right-clicked on user (Guest)
-* Selected **Set Password**
+* Right-clicked on user (Gast)
+* Selected **Kennwort festlegen**
 
 Step 3
 
