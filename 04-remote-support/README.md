@@ -31,7 +31,7 @@ Step 2
 ### 3. Established Connection
 
 * Entered Partner ID on the client machine
-* Clicked **Verbinden**
+* Clicked **Connect (Verbinden)**
 * Entered password
 
 Step 3
