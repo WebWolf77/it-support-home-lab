@@ -66,7 +66,9 @@ nslookup google.com
 
 
 ### ❌ Initial Tests (IP, Ping, DNS Failure)
-<img width="920" height="492" alt="Screenshot_1" src="https://github.com/user-attachments/assets/775b71a8-1407-4495-a3e2-28dadd900e87" />
+<img width="919" height="489" alt="Screenshot_1" src="https://github.com/user-attachments/assets/254549f0-44cf-41b2-b9d8-b8786e338856" />
+
+
 
 
 
