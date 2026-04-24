@@ -61,19 +61,22 @@ nslookup google.com
 
 ## 📸 Screenshots
 ### 🔌 Network Status – Not Connected
-<img width="962" height="1019" alt="Screenshot_7" src="https://github.com/user-attachments/assets/d80c68cc-03c9-4b15-8893-1e816d30b9ec" />
+<img width="795" height="633" alt="1" src="https://github.com/user-attachments/assets/fbfa1819-efb2-4fdd-bd23-0c4bb85b6b34" />
+
 
 
 ### ❌ Initial Tests (IP, Ping, DNS Failure)
-<img width="1012" height="1018" alt="Screenshot_zweite" src="https://github.com/user-attachments/assets/6a37473a-a71a-4e6c-b064-9dce0d2c6107" />
+<img width="920" height="492" alt="Screenshot_1" src="https://github.com/user-attachments/assets/775b71a8-1407-4495-a3e2-28dadd900e87" />
+
 
 
 ### ⚙️ Network Adapter Disabled
-<img width="1014" height="1020" alt="Screenshot_9" src="https://github.com/user-attachments/assets/c41408f2-de8c-4559-ad3d-71c391542b3b" />
+<img width="785" height="587" alt="Screenshot_2" src="https://github.com/user-attachments/assets/6591da65-f1d4-4986-a525-d08fc85425b5" />
 
 
 ### ✅ Final Verification (Connection Restored)
-<img width="1012" height="1021" alt="Screenshot_dritte" src="https://github.com/user-attachments/assets/9d8b1d03-589f-4cfe-93f0-81251f3893c2" />
+<img width="925" height="602" alt="Screenshot_3" src="https://github.com/user-attachments/assets/9c49e44d-f53e-4ae2-ab92-c31f3cc7f67d" />
+
 
 
 
