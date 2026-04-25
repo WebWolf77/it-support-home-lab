@@ -25,7 +25,8 @@ It includes domain creation, user management, and Group Policy configuration.
 
 📸
 Server Install 
-<img width="1032" height="1019" alt="Screenshot_25" src="https://github.com/user-attachments/assets/808468a2-2395-4980-be7a-7af442ed17d6" />
+<img width="1020" height="725" alt="Screenshot_25" src="https://github.com/user-attachments/assets/d1007b5c-448e-42eb-afcd-fb511b40dc17" />
+
 
 
 
@@ -40,9 +41,13 @@ Server Install
 
 📸
 AD Install
-<img width="1047" height="1019" alt="Screenshot_1" src="https://github.com/user-attachments/assets/5e89e5af-3703-458d-98c3-7ba193907df9" />
-<img width="1045" height="1019" alt="Screenshot_2" src="https://github.com/user-attachments/assets/c0be6bf9-6ebd-4060-839f-c87a42d0f889" />
-<img width="1046" height="1017" alt="Screenshot_3" src="https://github.com/user-attachments/assets/2042fd17-6220-4621-baf6-b1b5d51ab1bb" />
+<img width="1010" height="725" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a6e7ff2b-bb9b-4651-9fd5-327b0e9e9853" />
+
+<img width="947" height="664" alt="Screenshot_2" src="https://github.com/user-attachments/assets/62adf4dd-6711-40da-bf94-ce114657672b" />
+
+---
+<img width="868" height="620" alt="Screenshot_3" src="https://github.com/user-attachments/assets/cf5f47cb-2edf-4be8-aae1-871ee665e271" />
+
 
 
 
@@ -56,8 +61,10 @@ AD Install
 
 📸
 Promote DC
-<img width="1049" height="1020" alt="Screenshot_4" src="https://github.com/user-attachments/assets/9f695a82-ba0c-4e48-bb1c-848e68d0303b" />
-<img width="1048" height="1018" alt="Screenshot_6" src="https://github.com/user-attachments/assets/febed1b7-7c3f-4128-b79e-2dfc5f8a0a8e" />
+<img width="987" height="670" alt="Screenshot_4" src="https://github.com/user-attachments/assets/fb7df02d-70af-40e3-8af8-c44c3da45c21" />
+
+<img width="824" height="596" alt="Screenshot_6" src="https://github.com/user-attachments/assets/349df6ef-464e-4612-9029-d90031dd64dd" />
+
 
 
 
@@ -71,9 +78,13 @@ Promote DC
 
 📸
 DSRM Password
-<img width="1046" height="1022" alt="Screenshot_7" src="https://github.com/user-attachments/assets/25533be4-685b-4c09-991e-13bb2167b2f4" />
-<img width="1045" height="1019" alt="Screenshot_8" src="https://github.com/user-attachments/assets/c7e9bbe1-cfa3-4f45-be21-f48c4c634103" />
-<img width="1052" height="1020" alt="Screenshot_9" src="https://github.com/user-attachments/assets/4aeea7c3-1be1-40ac-a5c6-7242f314cccd" />
+<img width="831" height="609" alt="Screenshot_7" src="https://github.com/user-attachments/assets/3060ddff-ee0d-4d26-a59e-cb7decee76d6" />
+
+<img width="823" height="608" alt="Screenshot_8" src="https://github.com/user-attachments/assets/0d405aba-b0a0-44d2-8a90-70da0aa50bbb" />
+
+---
+<img width="800" height="592" alt="Screenshot_9" src="https://github.com/user-attachments/assets/cd36ab62-1392-4d97-9c9b-f1277eae08b5" />
+
 
 ---
 
@@ -85,11 +96,14 @@ DSRM Password
   
 📸
 Restart
-<img width="1046" height="1020" alt="Screenshot_11" src="https://github.com/user-attachments/assets/2ad59e9f-e324-4daf-8ed1-95b1f080e208" />
+<img width="810" height="591" alt="Screenshot_11" src="https://github.com/user-attachments/assets/d93c6082-1afb-48f3-a780-fc7a69aeaa3d" />
 
-<img width="1048" height="1020" alt="Screenshot_12" src="https://github.com/user-attachments/assets/7905be36-7697-472b-bdff-78a7401ff7c4" />
 
-<img width="1049" height="1016" alt="Screenshot_13" src="https://github.com/user-attachments/assets/d9ad4573-ae0b-4108-96d4-9168e97bd104" />
+<img width="797" height="597" alt="Screenshot_12" src="https://github.com/user-attachments/assets/5f7f5249-f71c-4f1f-b9cb-c062c6ed7b84" />
+
+---
+<img width="952" height="653" alt="Screenshot_13" src="https://github.com/user-attachments/assets/bb66c70b-1e23-4fc1-ad0e-f0380d3f75b8" />
+
 
 
 ---
@@ -101,7 +115,8 @@ Restart
 📸
 Admin Login
 
-<img width="1048" height="1019" alt="Screenshot_14" src="https://github.com/user-attachments/assets/991b13de-d32d-401b-a39e-5f735d5616cb" />
+<img width="995" height="733" alt="Screenshot_14" src="https://github.com/user-attachments/assets/9ddd11bd-7390-4cb8-abd7-e813a0a41738" />
+
 
 ---
 
@@ -114,11 +129,14 @@ Admin Login
 📸
 Create OU IT
 
-<img width="1046" height="1017" alt="Screenshot_15" src="https://github.com/user-attachments/assets/523966df-269d-4822-ae2f-321501caecf8" />
+<img width="987" height="713" alt="Screenshot_15" src="https://github.com/user-attachments/assets/1eaa7a88-9d83-4b59-a5f0-7c208b0fabd0" />
 
-<img width="1047" height="1019" alt="Screenshot_16" src="https://github.com/user-attachments/assets/bc8b4d4d-2a04-43ab-966c-c4ce68c8dee1" />
+---
+<img width="851" height="605" alt="Screenshot_16" src="https://github.com/user-attachments/assets/28f11d1b-d6f0-424f-8151-577a8b229ee9" />
 
-<img width="1043" height="1019" alt="Screenshot_17" src="https://github.com/user-attachments/assets/6cde73bf-f8e7-4f85-b38a-1c16f8c63b09" />
+---
+<img width="807" height="617" alt="Screenshot_17" src="https://github.com/user-attachments/assets/ac875606-93a3-47dc-be51-d49b00572d5c" />
+
 
 
 ---
@@ -132,11 +150,14 @@ Create OU IT
   
 📸
 Create User
-<img width="1051" height="1022" alt="Screenshot_18" src="https://github.com/user-attachments/assets/d842cf0e-d4a8-447e-8c94-a44823a7b2a4" />
+<img width="857" height="655" alt="Screenshot_18" src="https://github.com/user-attachments/assets/19a9eac6-9b52-440a-be13-0c5e38e6b497" />
 
-<img width="1047" height="1019" alt="Screenshot_19" src="https://github.com/user-attachments/assets/484dd421-fe19-48aa-b46a-9b3efd5e8057" />
 
-<img width="1052" height="1021" alt="Screenshot_20" src="https://github.com/user-attachments/assets/556cb78a-fb15-4507-b5d3-d331246ea045" />
+<img width="651" height="609" alt="Screenshot_19" src="https://github.com/user-attachments/assets/5e119de5-5d27-4bba-8988-a2797746a346" />
+
+---
+<img width="878" height="621" alt="Screenshot_20" src="https://github.com/user-attachments/assets/e8dae308-5e84-438c-a045-f3761b894192" />
+
 
 
 ---
@@ -151,7 +172,8 @@ Create User
 📸
 Group Policy
 
-<img width="1030" height="1022" alt="Screenshot_23" src="https://github.com/user-attachments/assets/e124c213-8255-4452-91d1-962b197a3e79" />
+<img width="847" height="625" alt="Screenshot_23" src="https://github.com/user-attachments/assets/ec9715f0-0611-4a3f-bdd6-3cdbecf30eb8" />
+
 
 
 ---
@@ -166,7 +188,8 @@ gpupdate /force
 
 📸
 GPUpdate
-<img width="1033" height="1019" alt="Screenshot_26" src="https://github.com/user-attachments/assets/d76bfdfb-ad26-4885-a00d-ecd8e39863da" />
+<img width="719" height="573" alt="Screenshot_26" src="https://github.com/user-attachments/assets/dbc0a713-0d32-4d5f-9bba-9ffc065412d7" />
+
 
 ---
 
@@ -179,9 +202,11 @@ GPUpdate
 📸
 User Login
 
-<img width="1051" height="1018" alt="Screenshot_21" src="https://github.com/user-attachments/assets/2ce2d8cb-ec0d-4100-8a42-884b00da9c63" />
+<img width="991" height="722" alt="Screenshot_21" src="https://github.com/user-attachments/assets/aa545b18-6e74-467a-b48d-7c011b9b96be" />
 
-<img width="1026" height="1018" alt="Screenshot_24" src="https://github.com/user-attachments/assets/3507a53c-0cbf-4c96-aa25-463d94d20d08" />
+---
+<img width="1009" height="724" alt="Screenshot_24" src="https://github.com/user-attachments/assets/a22b9988-b625-4081-8524-92f3329df6ed" />
+
 
 
 ---
