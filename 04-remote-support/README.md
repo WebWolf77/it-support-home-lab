@@ -13,7 +13,8 @@ User reports: "I need help accessing my computer remotely"
 * Launched TeamViewer on both machines (Host and Client)
 
 Step 1 
-<img width="1920" height="1018" alt="Screenshot_5" src="https://github.com/user-attachments/assets/41580937-2282-4248-a28d-0078c3a05660" />
+<img width="1919" height="862" alt="Screenshot_1" src="https://github.com/user-attachments/assets/543e8fd7-4a33-4b38-a544-f20b6cd4f288" />
+
 
 
 ---
@@ -23,7 +24,8 @@ Step 1
 * Obtained TeamViewer ID and Password from the remote machine (VM)
 
 Step 2
-<img width="1919" height="884" alt="Screenshot_6" src="https://github.com/user-attachments/assets/7d4c63fa-18ce-469f-bf9d-ae6908360678" />
+<img width="1900" height="725" alt="Screenshot_2" src="https://github.com/user-attachments/assets/01ee1f58-2833-4537-b536-d1c6458b9b21" />
+
 
 
 ---
@@ -35,7 +37,8 @@ Step 2
 * Entered password
 
 Step 3
-<img width="1919" height="884" alt="Screenshot_7" src="https://github.com/user-attachments/assets/395e6b4c-43f4-49ff-82ac-737e046954c6" />
+<img width="911" height="743" alt="Screenshot_3" src="https://github.com/user-attachments/assets/a99fabfe-832d-4a1f-8cf5-754f671d6bf6" />
+
 
 ---
 
@@ -45,7 +48,8 @@ Step 3
 * Verified full access to desktop
 
 Step 4
-<img width="1919" height="887" alt="Screenshot_8" src="https://github.com/user-attachments/assets/fa049b66-07c8-4a0a-88d5-6a52e4db5c02" />
+<img width="1917" height="769" alt="Screenshot_4" src="https://github.com/user-attachments/assets/8751580c-d692-4508-9b32-bc819df9e04c" />
+
 
 ---
 
