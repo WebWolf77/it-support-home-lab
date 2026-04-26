@@ -15,31 +15,34 @@ User reports: "I cannot log in to my computer due to incorrect password"
 
 Step 1
 
-<img width="951" height="1018" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e387cce4-cf4e-4401-8b87-324f6a4af0fd" />
+<img width="906" height="274" alt="Screenshot_1" src="https://github.com/user-attachments/assets/0807223b-2eda-432b-94f1-b93d2fe9a8c1" />
+
 
 
 ---
 
 ### 2. Navigated to Local Users
 
-* Opened: Local Users and Groups (Lokale Benutzer und Gruppen)
-* Clicked: Users (Benutzer)
+* Opened: Local Users and Groups 
+* Clicked: Users 
 
 Step 2
 
-<img width="961" height="1020" alt="Screenshot_2" src="https://github.com/user-attachments/assets/390ea710-51d3-4a5f-9f46-6df3405dc149" />
+<img width="1003" height="717" alt="Screenshot_2" src="https://github.com/user-attachments/assets/6fdcce6b-6af1-4e83-bc85-618246cf5071" />
+
 
 
 ---
 
 ### 3. Selected User Account
 
-* Right-clicked on user **Guest (Gast)**
-* Selected **Set password (Kennwort festlegen)**
+* Right-clicked on user **Guest**
+* Selected **Set password**
 
 Step 3
 
-<img width="962" height="1019" alt="Screenshot_3" src="https://github.com/user-attachments/assets/6a14ff79-0bcf-4d04-a747-6ccbd1e42864" />
+<img width="1002" height="713" alt="Screenshot_3" src="https://github.com/user-attachments/assets/7b66cd0a-3aaa-496e-9481-7bc3c2d5a257" />
+
 
 
 ---
@@ -51,7 +54,8 @@ Step 3
 
 Step 4
 
-<img width="961" height="1016" alt="Screenshot_4" src="https://github.com/user-attachments/assets/b0b2d07d-4cd8-46b2-bff2-ef35df0ceb7b" />
+<img width="873" height="564" alt="Screenshot_4" src="https://github.com/user-attachments/assets/7e75c34c-7aa9-45e5-914b-5a9ef2df6294" />
+
 
 
 ---
