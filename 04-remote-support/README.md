@@ -13,7 +13,7 @@ User reports: "I need help accessing my computer remotely"
 * Launched TeamViewer on both machines (Host and Client)
 
 Step 1 
-<img width="1919" height="862" alt="Screenshot_1" src="https://github.com/user-attachments/assets/543e8fd7-4a33-4b38-a544-f20b6cd4f288" />
+<img width="1903" height="887" alt="Screenshot erste" src="https://github.com/user-attachments/assets/1689814a-eaba-4252-ba24-c62188b39f25" />
 
 
 
@@ -33,7 +33,7 @@ Step 2
 ### 3. Established Connection
 
 * Entered Partner ID on the client machine
-* Clicked **Connect (Verbinden)**
+* Clicked **Connect**
 * Entered password
 
 Step 3
