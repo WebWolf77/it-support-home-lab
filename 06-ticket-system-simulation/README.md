@@ -30,13 +30,17 @@ Closed
 
 ## 📸 Screenshots
 ### ❌ Error
-<img width="1020" height="1016" alt="Screenshot_1" src="https://github.com/user-attachments/assets/4e507fa9-33f1-47f1-a04e-f9cc45210aaa" />
+<img width="845" height="444" alt="Screenshot_1" src="https://github.com/user-attachments/assets/ff4e9dae-4cfd-43a7-aa65-8947fe0de54c" />
+
 
 
 
 ### ✅ Fixed
-<img width="1021" height="1019" alt="Screenshot_2" src="https://github.com/user-attachments/assets/24837a89-7828-46d4-90fe-9b5799c040fc" />
-<img width="1022" height="1019" alt="Screenshot_3" src="https://github.com/user-attachments/assets/eb33c46c-a6ca-42e4-abca-b073e5b6ed4a" />
+<img width="854" height="637" alt="Screenshot_2" src="https://github.com/user-attachments/assets/223d060c-f1d5-4e0d-9722-42a757f6eaab" />
+
+---
+<img width="847" height="456" alt="Screenshot_3" src="https://github.com/user-attachments/assets/66328490-7d3d-400e-ba0a-95bfddf3c678" />
+
 
 
 ---
@@ -59,7 +63,7 @@ User unable to login due to incorrect password
 - Reset password using:
 
 ```bash
-net user Mike 1234
+net user labuser 12345
 ```
 
 
@@ -72,19 +76,26 @@ Closed
 ## 📸 Screenshots
 ### ❌ Login Error
 Error
-<img width="1022" height="1020" alt="Screenshot_4" src="https://github.com/user-attachments/assets/9755e360-418f-4323-b818-79168e465b30" />
+
+<img width="830" height="608" alt="Screenshot_4" src="https://github.com/user-attachments/assets/e693336d-2171-4c14-874a-83d99c7e188b" />
+
 
 
 ### 🔧 Admin Fix
 Admin
-<img width="1023" height="1022" alt="Screenshot_5" src="https://github.com/user-attachments/assets/24fcdb47-a9d5-4ffb-b96a-e21c28c1e7d5" />
 
-<img width="1021" height="1020" alt="Screenshot_6" src="https://github.com/user-attachments/assets/0343309f-c13d-4d4e-a47a-520c54d76cb1" />
+<img width="838" height="712" alt="Screenshot_5" src="https://github.com/user-attachments/assets/2b5f68f1-f181-4674-b921-0c245cce0013" />
+
+---
+<img width="747" height="360" alt="Screenshot_6" src="https://github.com/user-attachments/assets/318c90df-4696-42c7-8da8-092d7ff5c0a7" />
+
 
 
 ### ✅ Success
 Success
-<img width="1021" height="1020" alt="Screenshot_7" src="https://github.com/user-attachments/assets/614fffc9-b190-4d13-a6d7-18d4da88f992" />
+
+<img width="925" height="630" alt="Screenshot_7" src="https://github.com/user-attachments/assets/361748c5-8859-4f96-9083-c4d129e33324" />
+
 
 
 ---
@@ -114,12 +125,15 @@ Closed
 
 ## 📸 Screenshots
 ### ❌ Before (High CPU)
-<img width="1014" height="922" alt="Screenshot_9" src="https://github.com/user-attachments/assets/ea6641e8-7277-4bae-b6fd-9077be01dd0d" />
+<img width="788" height="589" alt="Screenshot_8" src="https://github.com/user-attachments/assets/20c75bd4-b7dd-4eaf-b65b-3c64f217c8fd" />
+
 
 
 ### 🔧 Action (Task End)
-<img width="1016" height="920" alt="Screenshot_10" src="https://github.com/user-attachments/assets/7564a8dd-9bc3-42f4-a9f3-c95726c6095e" />
+<img width="785" height="586" alt="Screenshot_9" src="https://github.com/user-attachments/assets/71634bda-031d-43d5-99fe-35ea2c9d2d49" />
+
 
 
 ### ✅ After (Optimized)
-<img width="1026" height="1018" alt="Screenshot_11" src="https://github.com/user-attachments/assets/57e1d841-af4c-4f61-998b-6a9d4888059e" />
+<img width="782" height="584" alt="Screenshot_10" src="https://github.com/user-attachments/assets/49343cb7-9537-44c7-b157-3c246a9b9ef8" />
+
