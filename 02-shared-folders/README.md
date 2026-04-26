@@ -11,7 +11,8 @@ A user needs access to a shared folder to view and edit files over the network.
 ### 1. Created the folder
 
 📸 Screenshot:
-<img width="991" height="1016" alt="Screenshot_esrte" src="https://github.com/user-attachments/assets/99af88e0-7239-4318-b267-386b571ec1b4" />
+<img width="875" height="640" alt="Screenshot_1" src="https://github.com/user-attachments/assets/606f576d-750f-4dfc-9f4f-be650a6be360" />
+
 
 
 👉 A folder named **Shared Folder** was created on the desktop.
@@ -21,25 +22,27 @@ A user needs access to a shared folder to view and edit files over the network.
 ### 2. Opened sharing settings
 
 📸 Screenshot:
-<img width="994" height="1013" alt="Screenshot_5zweite" src="https://github.com/user-attachments/assets/bbfc65ab-f983-459a-9147-6b08bfc6f6b3" />
+<img width="620" height="627" alt="Screenshot_2" src="https://github.com/user-attachments/assets/b67c4235-5d95-4c09-9c3f-9b13a91d7a06" />
 
 
-👉 Opened the folder by double-clicking it, then right-clicked and selected **“Properties / Eigenschaften”**.
-Navigated to the **“Sharing / Freigabe”** tab and clicked on **“Advanced Sharing / Erweiterte Freigabe”** to configure the folder sharing settings.
+
+👉 Opened the folder by double-clicking it, then right-clicked and selected **“Properties”**.
+Navigated to the **“Sharing”** tab and clicked on **“Advanced Sharing”** to configure the folder sharing settings.
 
 ---
 
 ### 3. Configured permissions
 
 📸 Screenshot:
-<img width="963" height="1017" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a4ae17e0-dec4-43d6-a347-0989ff41f67e" />
+<img width="695" height="636" alt="Screenshot_3" src="https://github.com/user-attachments/assets/ac8e1e07-cd3e-4cbe-9623-83a2e9880882" />
+
 
 
 👉 The **Everyone (Jeder)** group was added and granted:
 
-* Read / Lesen
-* Change / Ändern
-* Full Control / Vollzugriff
+* Read 
+* Change 
+* Full Control 
 
 💡 Interpretation:
 All users can access and modify files in the shared folder.
@@ -49,7 +52,8 @@ All users can access and modify files in the shared folder.
 ### 4. Verified folder is shared
 
 📸 Screenshot:
-<img width="963" height="1019" alt="Screenshot_6" src="https://github.com/user-attachments/assets/9dcd2cfa-23c6-470d-be08-311b8e915b34" />
+<img width="656" height="632" alt="Screenshot_4" src="https://github.com/user-attachments/assets/f0dd7389-9eb6-4d24-851f-56d133f69a34" />
+
 
 
 👉 The folder is now successfully shared on the network.
@@ -59,7 +63,8 @@ All users can access and modify files in the shared folder.
 ### 5. Accessed the shared folder
 
 📸 Screenshot:
-<img width="959" height="1020" alt="Screenshot_5" src="https://github.com/user-attachments/assets/9db89703-34fa-468c-bc36-90cd88aa78bd" />
+<img width="887" height="278" alt="Screenshot_5" src="https://github.com/user-attachments/assets/ac78c27a-25f5-4ca3-9470-b1b7fe9bf3c7" />
+
 
 
 👉 The shared folder is visible via `\\localhost`, confirming network access.
@@ -69,11 +74,15 @@ All users can access and modify files in the shared folder.
 ### 6. Tested write access
 
 📸 Screenshots:
-<img width="995" height="957" alt="Screenshot_2" src="https://github.com/user-attachments/assets/e2daf0c1-16cd-46cd-a709-55467faf9b9c" />
-<img width="995" height="1015" alt="Screenshot_4" src="https://github.com/user-attachments/assets/67f594fc-ac3f-495d-bd3d-f23f9ec88ca4" />
+<img width="880" height="665" alt="Screenshot_6" src="https://github.com/user-attachments/assets/ab207613-37e7-4e3e-b889-d4e174b5a605" />
 
 
-👉 A test file was created inside the shared folder by right-clicking in the folder, selecting **“New / Neu”** → **“Text Document / Textdokument”**, and naming it **“test”**.
+---
+<img width="842" height="646" alt="Screenshot_7" src="https://github.com/user-attachments/assets/1122770c-d1d0-413f-9b81-de65cb2cee7f" />
+
+
+
+👉 A test file was created inside the shared folder by right-clicking in the folder, selecting **“New”** → **“Text Document”**, and naming it **“test”**.
 
 ---
 
