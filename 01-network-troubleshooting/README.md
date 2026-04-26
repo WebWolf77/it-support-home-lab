@@ -57,7 +57,7 @@ nslookup google.com
 - Valid IP address assigned  
 - Successful ping to google.com  
 
---
+---
 
 ## 📸 Screenshots
 ### 🔌 Network Status – Not Connected
