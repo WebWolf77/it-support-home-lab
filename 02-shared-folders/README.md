@@ -38,7 +38,7 @@ Navigated to the **“Sharing”** tab and clicked on **“Advanced Sharing”**
 
 
 
-👉 The **Everyone (Jeder)** group was added and granted:
+👉 The **Everyone** group was added and granted:
 
 * Read 
 * Change 
